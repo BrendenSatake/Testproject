@@ -4,6 +4,8 @@
 
 // This comment was added in the FirstBranch branch
 
-// Time to create a conflict!
+// Time to resolve a conflict!
 var foo = "Rubber";
 var bar = "Duck";
+var hi = "Hello World";
+var bye = "Goodbye World";
