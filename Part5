@@ -1,0 +1,5 @@
+Check out the project’s current issues. How do they resolve pull requests? Can you get a sense of how contributions are evaluated in this community? How is the community organized? How is the repository/project organized?
+
+I'm looking at phaser in github.  (https://github.com/photonstorm/phaser)  
+
+The phaser framework repository appears to organize branches by object or file.  This probably isolates conflict errors to the specific branch.  Commit history is recorded in github, and contributors are organized based on their commit history.  Specifically, the contributors who have submitted the most frequently and most content are at the top of the list.  Contributions are managed with pull requests.  People send their modified code as a pull request and people comment and talk about the modifications to ensure that it moves the project in the right direction.  This seems like a good organization system, and it seems to be the default for github.
